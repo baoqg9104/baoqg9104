@@ -1,12 +1,12 @@
-<h2 align="left">👋 About me</h2>
+<h1 align="left">👋 About me</h1>
 
 ###
 
-<p align="left">Hi, I'm Quach Gia Bao, a Software Engineering student at FPT University.</p>
+<h4 align="left">Hi, I'm Quach Gia Bao, a Software Engineering student at FPT University.</h4>
 
 ###
 
-<h2 align="left">🌐 Socials</h2>
+<h1 align="left">🌐 Socials</h1>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">📊 Stats</h2>
+<h1 align="left">📊 Stats</h1>
 
 ###
 

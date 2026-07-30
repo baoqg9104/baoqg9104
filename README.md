@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Quach Gia Bao, a Software Engineering student at FPT University.</p>
+<p align="left">Hi, I'm Quach Gia Bao, a Software Engineering graduate from FPT University.</p>
 
 ###
 
